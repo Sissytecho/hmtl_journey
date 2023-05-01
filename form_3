@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>Register Form3</title>
+    </head>
+    <style>
+        body{background-color: bisque;
+
+        }
+    </style>
+    <body>
+        <form>
+            <table>
+                <tr>
+                    <td>
+                        NAME :
+
+                    </td>
+                    <td>
+                        <input type="text" placeholder="your full name"  name="">                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        PASSWORD:
+                    </td>
+                    <td>
+                        <input type="password" placeholder="correct password" name="">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        GENDER:
+                    </td>
+                    <td>
+                    <input type="radio" name="GENDER">MALE 
+                    <input type="radio" name="GENDER" >FEMALE                  
+                </td>
+                                   </tr>
+                                   <tr>
+                                    <td>
+                                        EMAIL:
+                                    </td>
+                                    <td>
+                                        <input type="mail" placeholder="enter email" name="">
+                                    </td>
+                                   </tr>
+                                   <tr>
+                                    <td>
+                                        PHONE NO:
+                                    </td>
+                                    <td>
+                                        <select>
+                                            <option>234</option>
+                                            <option>971</option>
+                                            <option>918</option>
+                                            <option>923</option>
+                                        </select>
+                                        <input type="phone" placeholder="87725***" required name="">
+                                    </td>
+                                   </tr>
+                                   <tr>
+                                    <td>
+                                        <input type="submit" value="submit"name"">                                    </td>
+                                   </tr>
+            </table>
+        </form>
+
+    </body>
+</html>
