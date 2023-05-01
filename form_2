@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>REGISTER FORM2</title>
+    </head>
+    <style>
+        body{
+            background-color: beige;
+        }
+    </style>
+
+    <body>
+        <FORM>
+EMAIL: <input type="EMAIL" REQUIRED><BR>
+    PASSWORD: <input type="
+    NUMBER" required> <BR>
+        CONFIRM PASSWORD: <input type="NUMBER" REQUIRED><BR>
+        GENDER: 
+        <INPUT type="checkbox" >FEMALE
+            <input TYPE="checkbox">MALE <br><br>
+<input type="submit" VALUE"LOG IN"> 
+</FORM>    
+</body>
+
+</html>
