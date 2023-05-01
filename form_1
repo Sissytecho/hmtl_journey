@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title> REGISTER FORM </title>
+</head>
+<style>
+body{background-color: aqua;}
+</style>
+<h3>KINDLY FILL THE FORM ACCURATELY</h3>
+<body>
+<form>
+FIRSTNAME <input type="text"> <br>
+MIDDLENAME <input type="text"> <br>
+SURNAME <input type="text"> <br>
+EMAIL <input type="email" required> <br>
+DOB <input type="date"> <br>
+GENDER:<BR>
+<input type="radio" name"GENDER">FEMALE<br>
+<input type="radio" name"GENDER">MALE<br>
+<input type"submit" value"REGISTER">
+
+</form>
+</body>
+</html>
