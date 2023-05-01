@@ -1,4 +1,4 @@
-here is a first project in html .
-i will develop form with a background.
+these are basic projects in html only .
+with varieties of background color.
 making sure the project is well details and responsive
 
